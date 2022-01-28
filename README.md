@@ -40,7 +40,7 @@ app.listen(3000, () =>{
 
 </div><br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tafuso">
+<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=tafuso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafuso&theme=dracula&hide_langs_below=1" />
  </a>
 
