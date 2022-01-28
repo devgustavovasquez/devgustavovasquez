@@ -27,14 +27,16 @@ app.listen(3000, () =>{
 ## **Languages and Tools:**  
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/express-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/tafuso/tafuso/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/>  
+
 
 </div><br>
 
