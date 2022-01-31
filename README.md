@@ -31,7 +31,6 @@ app.listen(3000, () =>{
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/express-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/tafuso/tafuso/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
