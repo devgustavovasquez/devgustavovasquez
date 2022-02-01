@@ -12,7 +12,7 @@ const app = express()
 
 const developer = {
 name:"Gustavo",
-stack:"Front End Developer"
+stack:"FrontEnd Developer"
 }
 
 app.get('/', (req, res) =>{
