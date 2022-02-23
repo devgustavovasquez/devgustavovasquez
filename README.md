@@ -12,8 +12,9 @@ const express = require('express')
 const app = express()
 
 const developer = {
-name:"Gustavo",
-stack:"FullStack Developer"
+  name:"Gustavo",
+  stack:"Fullstack Developer",
+  about: "I make plans and execute them"
 }
 
 app.get('/', (req, res) =>{
