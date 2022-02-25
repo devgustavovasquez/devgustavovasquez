@@ -1,6 +1,5 @@
 ### Hello! My name is Gustavo Vasquez! 👋
 
-
 I'm a software developer, in love with technologies and innovations.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About Me
