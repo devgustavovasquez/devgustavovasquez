@@ -12,7 +12,7 @@ const app = express()
 
 const developer = {
   name:"Gustavo",
-  stack:"Frontend Developer",
+  stack:"FullStack Developer",
   about: "I make plans and execute them"
 }
 
