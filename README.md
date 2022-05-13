@@ -29,20 +29,20 @@ app.listen(3000, () =>{
 
 
 <div style="display: inline_block"><br>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/tafuso/tafuso/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/>  
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/>  
 
 
 </div><br>
 
-<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=tafuso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafuso&theme=dracula&hide_langs_below=1" />
+<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez&theme=dracula&hide_langs_below=1" />
  </a>
 
 ## **Talk to me:**
