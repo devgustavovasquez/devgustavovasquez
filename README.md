@@ -4,8 +4,6 @@ I'm a software developer, in love with technologies and innovations.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About Me
 
-<img align="right" width="450" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 ```javascript
 const express = require('express')
 const app = express()
@@ -24,6 +22,9 @@ app.listen(3000, () =>{
   console.log("Server is running on port 3000 🚀")
 })
 ```
+
+<img align="right" width="450" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 ## **Languages and Tools:**  
 
