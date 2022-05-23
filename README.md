@@ -1,34 +1,20 @@
+
+
 ### Hello! My name is Gustavo Vasquez! 👋
+<h1 align="left"><img width="45"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">More About Me</h1>
 
-I'm a software developer, in love with technologies and innovations.
+- 🔥 Junior Full Stack Developer & focused on leaving a legacy in technology
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More About Me
+- 🔭 I’m currently working at [Dominos Pizza Brazil](https://www.dominos.com.br/)
 
+- 👨‍💻 All of my projects are available at [COMING SOON...](#)
+
+- ⚡ Right now I'm studying: Redux, SOLID and OPP.
+
+<!-- 
 <img align="right" width="450" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
-```javascript
-const express = require('express')
-const app = express()
-
-const developer = {
-  name:"Gustavo",
-  stack:"FullStack Developer",
-  about: "I make plans and execute them"
-}
-
-app.get('/', (req, res) =>{
-  return res.send(developer)
-}),
-
-app.listen(3000, () =>{
-  console.log("Server is running on port 3000 🚀")
-})
-```
-
-
+-->
 ## **Languages and Tools:**  
-
 
 <div style="display: inline_block"><br>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/javascript-plain.svg" width="50" height="40" align="center"/>
@@ -38,9 +24,7 @@ app.listen(3000, () =>{
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/>  
-
-
+  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/> 
 </div><br>
 
 <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez">
