@@ -23,7 +23,6 @@
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/python-icon.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/> 
 </div><br>
 
