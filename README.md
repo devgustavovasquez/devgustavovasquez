@@ -1,7 +1,7 @@
 
 
 ### Hello! My name is Gustavo Vasquez! 👋
-<h1 align="left"><img width="45"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">More About Me</h1>
+<h1 align="left"><img width="45"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">About Me</h1>
 
 - 🔥 Junior Full Stack Developer & focused on leaving a legacy in technology
 
@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez&theme=dracula&hide_langs_below=1" />
  </a>
 
-## **Talk to me:**
+## **Contact me:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/devgustavovasquez/" alt="Linkedin">
