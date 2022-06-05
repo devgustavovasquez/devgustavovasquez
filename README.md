@@ -1,7 +1,7 @@
 
 
 ### Hello! My name is Gustavo Vasquez! 👋
-<h1 align="left"><img width="45"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">About Me</h1>
+<h2 align="left"><img width="30"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  About Me</h2>
 
 - 🔥 Junior Full Stack Developer & focused on leaving a legacy in technology
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
-- ⚡ Right now I'm studying: Redux, SOLID and OOP.
+- ⚡ Right now I'm studying: Redux, SOLID and NextJS.
 
 <!-- 
 
@@ -17,19 +17,41 @@
 -->
 ## **Languages and Tools:**  
 
-<div style="display: inline_block"><br>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/typescript-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/react-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/nodejs-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/mongodb-original.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/devgustavovasquez/devgustavovasquez/blob/main/icons/postgresql-icon.svg" width="50" height="40" align="center"/> 
-</div><br>
+<div style="display: flex; gap: 10px;"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-9A405B?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/testing%20library-9A405B?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavovasquez&theme=dracula&hide_langs_below=1" />
- </a>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<br>
+
 
 ## **Contact me:**
 
