@@ -3,7 +3,7 @@
 ### Hello! My name is Gustavo Vasquez! 👋
 <h2 align="left"><img width="30"  alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  About Me</h2>
 
-- 🔥 Backend Developer & focused on leaving a legacy in technology
+- 🔥 Software Developer & focused on leaving a legacy in technology
 
 - 🔭 I’m currently working at [Dominos Pizza Brazil](https://www.dominos.com.br/)
 
