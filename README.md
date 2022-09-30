@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
-- ⚡ Right now I'm studying: TDD, Express and REST API.
+- ⚡ Right now I'm studying: TDD and WebSocket.
 
 <!-- 
 
