@@ -5,7 +5,7 @@
 
 - 🔥 Software Developer & focused on leaving a legacy in technology
 
-- 🔭 I’m currently working at [Dominos Pizza Brazil](https://www.dominos.com.br/)
+- 🔭 I’m currently working at [my self](https://www.linkedin.com/in/devgustavovasquez)
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
