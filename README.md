@@ -5,11 +5,11 @@
 
 - 🔥 Software Developer & focused on leaving a legacy in technology
 
-- 🔭 I’m currently working at [my self](https://www.linkedin.com/in/devgustavovasquez)
+- 🔭 I’m currently working at [explicaENEM](http://explicaenem.com.br/)
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
-- ⚡ Right now I'm studying: TDD and WebSocket.
+- ⚡ Right now I'm studying: NestJS, Docker and TDD.
 
 <!-- 
 
