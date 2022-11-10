@@ -5,7 +5,7 @@
 
 - 🔥 Software Developer & focused on leaving a legacy in technology
 
-- 🔭 I’m currently working at [explicaENEM](http://explicaenem.com.br/)
+- 🔭 I’m currently working at [Kukac](https://kukac.com.br/) & [explicaENEM](http://explicaenem.com.br/)
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
