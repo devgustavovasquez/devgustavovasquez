@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
-- ⚡ Right now I'm studying: NestJS, Express and TDD.
+- ⚡ Right now I'm studying: NestJS, Microservices and Messaging.
 
 <!-- 
 
