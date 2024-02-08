@@ -5,8 +5,6 @@
 
 - 🔥 Software Developer & focused on leaving a legacy in technology
 
-- 🔭 I’m currently working at [Kukac](https://kukac.com.br/)
-
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
 - ⚡ Right now I'm studying: Design Patterns and Rust.
