@@ -5,9 +5,11 @@
 
 - 🔥 Software Developer & focused on leaving a legacy in technology
 
+- 📃 I am a Javascript specialist, both client-side and server-side
+
 - 👨‍💻 All of my projects are available at [COMING SOON...](#)
 
-- ⚡ Right now I'm studying: Design Patterns and Rust.
+- ⚡ Right now I'm studying: Design Patterns and Rust (in my free time).
 
 <!-- 
 
