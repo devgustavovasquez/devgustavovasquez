@@ -29,7 +29,7 @@ entrei em tech porque **amo resolver problemas**.
 como eu trabalho?
 stack moderna,  
 atenção a **performance**,  
-obsessão por **clareza e manutenção** —  
+obsessão por **clareza e manutenção**
 
 código bom não é aquele que roda,  
 é aquele que **resolve o problema** e **escala com o negócio**.
