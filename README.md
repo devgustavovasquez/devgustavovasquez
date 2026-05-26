@@ -10,15 +10,15 @@ gantt
     axisFormat %Y
 
     section Carreira
-    Domino's (SDET Intern)             :done, 2022-01-01, 2022-07-01
-    Kukac (Software Engineer Jr)        :done, 2022-08-01, 2024-05-01
-    MusicPRO (Software Engineer Jr)     :done, 2024-05-01, 2025-04-01
-    Iniciativa FIS (Software Engineer Pl):done, 2025-09-01, 2026-03-01
-    Mobilli (Software Engineer Pl)      :active, 2026-02-01, 2026-05-26
+    Domino's                            :done, 2022-01-01, 2022-07-01
+    Kukac                               :done, 2022-08-01, 2024-05-01
+    MusicPRO                            :done, 2024-05-01, 2025-04-01
+    Iniciativa FIS                      :done, 2025-09-01, 2026-03-01
+    Mobilli                             :active, 2026-02-01, 2026-05-26
 
-    section Propósito & Projetos
+    section Projetos
     Líder de Multimídia (Igreja)        :done, 2024-01-01, 2025-04-01
-    Meeah (SaaS / Wedding System)       :active, 2026-01-01, 2026-12-30
+    Meeah (SaaS)                        :active, 2026-01-01, 2026-12-30
 ```
 
 ## 👋 sobre mim
@@ -35,9 +35,9 @@ Entendo o problema, planejo a arquitetura e implemento. Acredito que código bom
 
 ## 🚀 destaques de impacto
 
-- **Iniciativa FIS:** Arquitetura do *FIS Knowledge Engine* e pipeline de tradução/transcrição em tempo real (370 painéis simultâneos processados via Pub/Sub e GPU na GCP).
+- **Iniciativa FIS:** Arquitetura do *FIS Knowledge Engine* e pipeline de tradução/transcrição em tempo real. Processamento de 370 painéis ao longo de 3 dias de evento (até 20 simultâneos) via Pub/Sub e GPU na GCP.
 - **MusicPRO:** Otimização de pipelines de análise de áudio (20k músicas/mês), reduzindo a latência de análise de 12s para 4s.
-- **Meeah:** Desenvolvimento de um SaaS completo para gestão de casamentos, utilizando **Next.js**, **Dokploy** e infraestrutura robusta para entregar uma experiência fluida e escalável.
+- **Meeah (SaaS):** Desenvolvimento de um ecossistema completo para gestão de casamentos, utilizando **Next.js**, **Dokploy** e infraestrutura robusta para entregar uma experiência fluida e escalável.
 
 ## 🧠 stack tecnológica
 
